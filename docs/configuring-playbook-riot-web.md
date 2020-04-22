@@ -33,7 +33,7 @@ Alternatively, **if there is no pre-defined variable** for a riot-web setting yo
 
 To change the look of riot-web, you can define your own themes manually by using the `matrix_riot_web_settingDefaults_custom_themes` setting.
 
-Or better yet, you can automatically pull it all themes provided by the [aaronraimist/riot-web-themes](https://github.com/aaronraimist/riot-web-themes) project by simply flipping a flag (`matrix_riot_web_themes_enabled: true`).
+Or better yet, you can automatically pull all themes provided by the [aaronraimist/riot-web-themes](https://github.com/aaronraimist/riot-web-themes) project by simply flipping a flag (`matrix_riot_web_themes_enabled: true`).
 
 If you make your own theme, we encourage you to submit it to the **aaronraimist/riot-web-themes** project, so that the whole community could easily enjoy it.
 
